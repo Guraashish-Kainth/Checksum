@@ -245,7 +245,7 @@ public class pa02 {
 }
 
 /*=============================================================================
-| I Guraashish Kainth (gu277976) affirm that this program is
+| I Guraashish Kainth affirm that this program is
 | entirely my own work and that I have neither developed my code together with
 | any another person, nor copied any code from any other person, nor permitted
 | my code to be copied or otherwise used by any other person, nor have I
